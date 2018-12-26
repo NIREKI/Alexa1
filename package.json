@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Niklas Kinze",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app-server": "^3.0.2"
+  }
 }
