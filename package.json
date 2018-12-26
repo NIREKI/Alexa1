@@ -1,0 +1,12 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "description": "Lampensteuerung",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "author": "Niklas Kinze",
+  "license": "ISC"
+}
